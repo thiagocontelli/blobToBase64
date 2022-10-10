@@ -1,0 +1,14 @@
+{
+  "name": "blob-to-base64",
+  "version": "1.0.0",
+  "description": "A simple library to convert blob files to base64",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Contelli",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.8.3"
+  }
+}
